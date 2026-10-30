@@ -71,7 +71,7 @@ h1 {
    PAGE LAYOUT
 ========================= */
 .home-card {
-  max-width: 1200px;
+  max-width: 1500px;
   margin: 2em auto 0 auto;
   padding: 1em 1em 0 1em; /* bottom padding = 0 */
 }
@@ -206,7 +206,7 @@ html, body {
 .image-container {
   display: flex;
   justify-content: center;
-  gap: 45px;
+  gap: 30px;
   background-color:#B695C0;
   width: fit-content;
   margin: 0 auto;
@@ -219,7 +219,7 @@ html, body {
 }
 
 .card img {
-  width: 250px; /* adjust as needed */
+  width: 200px; /* adjust as needed */
   height: auto;
   display: block;
 }
